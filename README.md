@@ -7,3 +7,6 @@ Ce TP a été commencé en classe, seule la dernière question manquait.
  - cd TP_WALMART
  - jupyter nbconvert --to python Script/TP_WALMART.ipynb
  - python Script/TP_WALMART.py 
+ 
+ # Question 12 
+ 
