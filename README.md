@@ -9,4 +9,5 @@ Ce TP a été commencé en classe, seule la dernière question manquait.
  - python Script/TP_WALMART.py 
  
  # Question 12 
- 
+ <img src="Output/Q12.png" 
+  style="float: center; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
